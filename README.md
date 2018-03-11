@@ -1,3 +1,3 @@
 # ChuckBates.github.io
 
-Inprogress work on personal website
+In progress work on personal website
